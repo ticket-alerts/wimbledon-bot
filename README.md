@@ -2,7 +2,7 @@
 
 An easy to setup **Wimbledon bot** that monitors the official Wimbledon resale website on wimbledon.com and sends instant low-latency alerts when **Wimbledon tickets** become available. Whether it's Centre Court, Court 1, or ground passes — the **Wimbledon ticket alert bot** watches availability so you don't have to.
 
-🌐 **Website:** [ticket-alerts.live/wimbledon](https://ticket-alerts.live/event/wimbledon-2026)
+🌐 **Website:** [ticket-alerts.live/event/wimbledon-2026](https://ticket-alerts.live/event/wimbledon-2026)
 
 ---
 
